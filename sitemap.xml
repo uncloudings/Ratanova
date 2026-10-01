@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://meetsehgal.com/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://meetsehgal.com/og-image.jpg</image:loc>
+      <image:title>Meet Sehgal — AI Filmmaker</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://meetsehgal.com/hero-poster.jpg</image:loc>
+      <image:title>Meet Sehgal — AI filmmaker hero</image:title>
+    </image:image>
+  </url>
+</urlset>
